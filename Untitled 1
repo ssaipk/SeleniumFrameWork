@@ -1,0 +1,24 @@
+Framework Notes
+
+Types:
+TDD: Test Driven Development
+BDD: Behavior Driven Development
+
+Testing Tools:
+TestNG
+
+Integrations:
+Maven
+Jenkins
+Selenium
+Apache POI
+GitHub
+TestNG
+
+Design Pattern:
+POM: Page Object Model
+Singleton
+
+Folder Structures:
+src/main/java >> contain selenium code
+src/test/java >> contain TestNG code

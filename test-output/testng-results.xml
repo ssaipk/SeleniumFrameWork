@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-05T17:34:03 IST" name="Default suite" finished-at="2023-04-05T17:34:12 IST" duration-ms="9667">
+    <groups>
+    </groups>
+    <test started-at="2023-04-05T17:34:03 IST" name="Default test" finished-at="2023-04-05T17:34:12 IST" duration-ms="9667">
+      <class name="com.selenium.testcases.DashboardPage">
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.selenium.testcases.DashboardPage@564fabc8]" started-at="2023-04-05T17:34:03 IST" name="browserSetUp" finished-at="2023-04-05T17:34:09 IST" duration-ms="6530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="timeatWorkSection()[pri:0, instance:com.selenium.testcases.DashboardPage@564fabc8]" started-at="2023-04-05T17:34:09 IST" name="timeatWorkSection" finished-at="2023-04-05T17:34:12 IST" duration-ms="2890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeatWorkSection -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.selenium.testcases.DashboardPage@564fabc8]" started-at="2023-04-05T17:34:12 IST" name="closeBrowser" finished-at="2023-04-05T17:34:12 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.selenium.testcases.DashboardPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
